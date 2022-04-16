@@ -45,8 +45,13 @@ function br(){
 // mouseup,mousedown
 // mousemove
 var msg =document.querySelector("h1");
+var p =document.querySelector("p");
 var div =document.querySelector("div").addEventListener("click",function(e){
    msg.innerHTML="Mouse clicked!";
+   p.style.background="pink";
+   p.style.padding="10px";
+   p.style.color="black";
+   
 });
 
 var div =document.querySelector("div").addEventListener("dblclick",function(e){
@@ -55,7 +60,10 @@ var div =document.querySelector("div").addEventListener("dblclick",function(e){
 
 var div =document.querySelector("div").addEventListener("mouseenter",function(e){
    msg.innerHTML="Mouse "+e.type;
-   div.style.background="pink";
+   p.style.background="yellow";
+   p.style.padding="10px";
+   p.style.color="black";
+   
 });
 
 var div =document.querySelector("div").addEventListener("mouseleave",function(e){
@@ -64,11 +72,17 @@ var div =document.querySelector("div").addEventListener("mouseleave",function(e)
 
 var div =document.querySelector("div").addEventListener("mouseover",function(e){
    msg.innerHTML="Mouse "+e.type;
+   p.style.background="orange";
+   p.style.padding="10px";
+   p.style.color="black";
 });
 
 var div =document.querySelector("div").addEventListener("mousemove",function(e){
    msg.innerHTML="Mouse "+e.type;
-   div.style.background="green";
+   p.style.background="green";
+   p.style.padding="10px";
+   p.style.color="black";
+   
 });
 
 var div =document.querySelector("div").addEventListener("mouseup",function(e){
