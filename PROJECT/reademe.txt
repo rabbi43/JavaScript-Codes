@@ -1,0 +1,20 @@
+|=========================|
+|***js begginer project***|
+|=========================|
+
+01.Sidebar navigation
+02.Add dark mode feature
+03.Image slider
+04.Audio player
+04.Video player
+05.Modal box
+06.Calculator
+07.Color generator
+08.
+09.
+10.
+11.
+12.
+13.
+14.
+15
