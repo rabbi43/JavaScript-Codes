@@ -55,6 +55,7 @@ var div =document.querySelector("div").addEventListener("dblclick",function(e){
 
 var div =document.querySelector("div").addEventListener("mouseenter",function(e){
    msg.innerHTML="Mouse "+e.type;
+   div.style.background="pink";
 });
 
 var div =document.querySelector("div").addEventListener("mouseleave",function(e){
@@ -67,6 +68,7 @@ var div =document.querySelector("div").addEventListener("mouseover",function(e){
 
 var div =document.querySelector("div").addEventListener("mousemove",function(e){
    msg.innerHTML="Mouse "+e.type;
+   div.style.background="green";
 });
 
 var div =document.querySelector("div").addEventListener("mouseup",function(e){
@@ -76,7 +78,6 @@ var div =document.querySelector("div").addEventListener("mouseup",function(e){
 var div =document.querySelector("div").addEventListener("mousedown",function(e){
    msg.innerHTML="Mouse "+e.type;
 });
-
 
 
 
