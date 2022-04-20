@@ -1,0 +1,24 @@
+
+
+{
+   "MyTeamMember" : [
+    {
+      "name" : "rabbi",
+      "age" : 20,
+      "skills" : ["Html","Css","JavaScript","Bootstarp"],
+      "lang" : ["bangla","english","urdhu"]
+    },
+    {
+      "name" : "sakib",
+      "age" : 21,
+      "skills" : ["Html","Css","JavaScript","Java"],
+      "lang" : ["bangla","english","hindi"]
+    },
+    {
+      "name" : "alamin",
+      "age" : 20,
+      "skills" : ["C","Java","JavaScript","Python"],
+      "lang" : ["bangla","english","urdhu"]
+    }
+]
+}

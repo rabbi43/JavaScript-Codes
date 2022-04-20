@@ -1,0 +1,35 @@
+
+
+{
+   "friendsInfo" : [
+    {
+     "name" : "sakib",
+     "middleName" : null,
+     "age" : 21,
+     "gpa" : 4.25,
+     "lang" : ["bangla","english","hindi"],
+     "friends" : [{
+       "name" : "alamin",
+       "age" : 20
+      },
+      {
+       "name" : "showrov",
+       "age" : 21
+      }]
+     },
+     {
+     "name" : "sakib",
+     "middleName" : null,
+     "age" : 21,
+     "gpa" : 4.25,
+     "lang" : ["bangla","english","hindi"],
+     "friends" : [{
+       "name" : "alamin",
+       "age" : 20
+      },
+      {
+       "name" : "showrov",
+       "age" : 21
+      }]
+    }]
+}
