@@ -1,0 +1,25 @@
+{
+  "hackedData": [
+    {
+      "name": "smith",
+      "id": 102030400000,
+      "email": "smith@magim.be",
+      "phone": "0191111111",
+      "password": "asd3981j"
+    },
+    {
+      "name": "david",
+      "id": 94802030000,
+      "email": "david@magim.be",
+      "phone": "0171111111",
+      "password": "9293981j"
+    },
+    {
+      "name": "john",
+      "id": 202330400000,
+      "email": "john@magim.be",
+      "phone": "0181111111",
+      "password": "osi3981j"
+    }
+  ]
+}
