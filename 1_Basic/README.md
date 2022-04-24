@@ -1,4 +1,4 @@
-## [Arrays](#array)
+## [Array](#array)
 ## [Object](#object)
 ## [Iffes](#object)
 ## [Function](#object)
@@ -7,6 +7,7 @@
 
 <a name="array">
 
+## Array:
 ```js
 let data = [10,20,30,40,50,60];
 console.log(data)
