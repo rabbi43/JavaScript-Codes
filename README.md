@@ -1,5 +1,4 @@
-# About This Repository:
-This repository contains javascript files for begginer
+## This repository contains javascript files for begginer.*Actually this is my javascript notes!*
 
 
 
